@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-file-system-exercise-srv0504",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EyWK7r3o) # NodeJS - File System Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/nodejs-file-system-exercise-SRV0504.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/nodejs-file-system-exercise-SRV0504/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/nodejs-file-system-exercise-SRV0504#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "typescript": "^5.9.3"
+  }
+}
